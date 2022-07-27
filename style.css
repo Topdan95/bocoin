@@ -1,0 +1,1221 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+}
+/*Logo*/
+.logo {
+    position: absolute;
+    width: 127px;
+    height: 40px;
+    left: 165px;
+    top: 84px;
+}
+/* About Bocoin */
+.aboutbocoin {
+    position: absolute;
+    width: 115px;
+    height: 22px;
+    left: 548px;
+    top: 72px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    color: #393939;
+}
+/* Legal */
+.legal {
+    position: absolute;
+    width: 46px;
+    height: 22px;
+    left: 703px;
+    top: 72px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    color: #000000;
+}
+/* Contact */
+.contact {
+    position: absolute;
+    width: 68px;
+    height: 22px;
+    left: 789px;
+    top: 72px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    color: #393939;
+}
+/* Vector */
+.vector {
+    position: absolute;
+    left: 13%;
+    right: 0%;
+    top: 40%;
+    bottom: 0%;
+}
+/* Start your Portfolio */
+.text {
+    position: absolute;
+    width: 155px;
+    height: 21px;
+    left: 195px;
+    top: 236px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #0075FF;
+}
+/* Vector */
+.vector1 {
+    position: absolute;
+    left: 26.50%;
+    right: 26.50%;
+    top: 40.50%;
+    bottom: 40.50%;
+}
+/* Buy, Sell & Trade Your Crypto */
+.text1 {
+    position: absolute;
+    width: 400px;
+    height: 113px;
+    left: 165px;
+    top: 250px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 58px;
+
+    color: #393939;
+}
+/* Bocoin is the easiest place to buy and sell cryptocurrency. Download our app for easy uasge. */
+.text2 {
+    position: absolute;
+    width: 380px;
+    height: 90px;
+    left: 165px;
+    top: 415px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 30px;
+    /* or 176% */
+    color: #838383;
+}
+/* app store */
+.appstore {
+    position: absolute;
+    width: 420px;
+    height: 60px;
+    left: 165px;
+    top: 520px;
+}
+/* image 14 */
+.image14 {
+    position: absolute;
+    width: 686px;
+    height: 336px;
+    left: 589px;
+    top: 230px;
+}
+/* Ranking Cryptocurrency */
+.text3 {
+    position: absolute;
+    width: 336px;
+    height: 34px;
+    left: 165px;
+    top: 650px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    /* identical to box height */
+    color: #393939;
+}
+/* Rectangle 162 */
+.rectangle162 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1109px;
+    height: 654px;
+    left: 165px;
+    top: 800px;
+
+    background: #FFFFFF;
+    border: 1px solid rgba(196, 196, 196, 0.5);
+    border-radius: 10px;
+}
+/* Line 1 */
+.line1 {
+    position: absolute;
+    width: 1110px;
+    height: 0px;
+    left: 166px;
+    top: 860px;
+
+    border: 1px solid rgba(196, 196, 196, 0.5);
+}
+/* Rank */
+.rank {
+    position: absolute;
+    width: 44px;
+    height: 22px;
+    left: 182px;
+    top: 800px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #393939;
+}
+/* Coin */
+.coin {
+    position: absolute;
+    width: 40px;
+    height: 22px;
+    left: 314px;
+    top: 800px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #393939;
+}
+/* Last Price */
+.lastprice {
+    position: absolute;
+    width: 87px;
+    height: 22px;
+    left: 442px;
+    top: 800px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #393939;
+}
+/* Change(24h) */
+.change {
+    position: absolute;
+    width: 116px;
+    height: 22px;
+    left: 617px;
+    top: 800px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #393939;
+}
+/* Volume (24%) */
+.volume {
+    position: absolute;
+    width: 123px;
+    height: 22px;
+    left: 821px;
+    top: 800px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #393939;
+}
+/* Graph */
+.graph {
+    position: absolute;
+    width: 54px;
+    height: 22px;
+    left: 1032px;
+    top: 800px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #393939;
+}
+/* Line 2 */
+.line2 {
+    position: absolute;
+    width: 1110px;
+    height: 0px;
+    left: 166px;
+    top: 960px;
+
+    border: 1px solid rgba(196, 196, 196, 0.5);
+}
+/* Rectangle 165 */
+.rectangle165 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 182px;
+    top: 895px;
+
+    background: rgba(0, 117, 255, 0.5);
+    border-radius: 10px;
+}
+/* 1 */
+.text4 {
+    position: absolute;
+    width: 10px;
+    height: 22px;
+    left: 197px;
+    top: 885px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #0075FF;
+}
+/* Rectangle 164 */
+.rectangle164 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 314px;
+    top: 895px;
+
+    background: rgba(255, 150, 53, 0.85);
+    border-radius: 10px;
+}
+/* Vector */
+.vector2 {
+    position: absolute;
+    width: 158px;
+    height: 40px;
+    left: 318.5px;
+    top: 901px;
+}
+/* BnB */
+.text5 {
+    position: absolute;
+    width: 23px;
+    height: 15px;
+    left: 354px;
+    top: 892px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    color: #393939;
+}
+/* $ 20,345 */
+.text6 {
+    position: absolute;
+    width: 70px;
+    height: 19px;
+    left: 452px;
+    top: 885px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #393939;
+}
+/* 4.72% */
+.text7 {
+    position: absolute;
+    width: 47px;
+    height: 19px;
+    left: 621px;
+    top: 885px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #23D007;
+}
+/* $ 222,545,123,946 */
+.text8 {
+    position: absolute;
+    width: 145px;
+    height: 19px;
+    left: 806px;
+    top: 885px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #393939;
+}
+/* Vector 4 */
+.graph1 {
+    position: absolute;
+    width: 158px;
+    height: 40px;
+    left: 1014px;
+    top: 885px;
+
+    border-radius: 8px;
+}
+/* Vector */
+.vector3 {
+    position: absolute;
+    width: 158px;
+    height: 40px;
+    left: 1212px;
+    top: 900px;
+}
+/* Line 3 */
+.line3 {
+    position: absolute;
+    width: 1110px;
+    height: 0px;
+    left: 166px;
+    top: 1060px;
+
+    border: 1px solid rgba(196, 196, 196, 0.5);
+}
+/* Rectangle 166 */
+.rectangle166 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 182px;
+    top: 995px;
+
+    background: #F3F4F9;
+    border-radius: 10px;
+}
+/* 2 */
+.text9 {
+    position: absolute;
+    width: 10px;
+    height: 22px;
+    left: 197px;
+    top: 985px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #393939;
+}
+/* Rectangle 170 */
+.rectangle170 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 314px;
+    top: 995px;
+
+    background: #406AFF;
+    border-radius: 10px;
+}
+/* Vector */
+.vector4 {
+    position: absolute;
+    width: 158px;
+    height: 40px;
+    left: 324px;
+    top: 1002px;
+}
+/* Ethereum */
+.text10 {
+    position: absolute;
+    width: 56px;
+    height: 15px;
+    left: 354px;
+    top: 992px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    color: #393939;
+}
+/* $ 35,631 */
+.text11 {
+    position: absolute;
+    width: 67px;
+    height: 19px;
+    left: 453px;
+    top: 985px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #393939;
+}
+/* 3.20% */
+.text12 {
+    position: absolute;
+    width: 48px;
+    height: 19px;
+    left: 621px;
+    top: 985px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #FF0220;
+}
+/* $ 222,533,126,422 */
+.text13 {
+    position: absolute;
+    width: 144px;
+    height: 19px;
+    left: 806px;
+    top: 985px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #393939;
+}
+/* Vector 5 */
+.graph2 {
+    position: absolute;
+    width: 138px;
+    height: 40px;
+    left: 1014px;
+    top: 985px;
+
+    border-radius: 8px;
+}
+/* Vector */
+.vector5 {
+    position: absolute;
+    width: 158px;
+    height: 40px;
+    left: 1212px;
+    top: 1000px;
+}
+/* Line 4 */
+.line4 {
+    position: absolute;
+    width: 1110px;
+    height: 0px;
+    left: 166px;
+    top: 1160px;
+
+    border: 1px solid rgba(196, 196, 196, 0.5);
+}
+/* Rectangle 167 */
+.rectangle167 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 182px;
+    top: 1095px;
+
+    background: #F3F4F9;
+    border-radius: 10px;
+}
+/* 3 */
+.text14 {
+    position: absolute;
+    width: 10px;
+    height: 22px;
+    left: 197px;
+    top: 1085px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #393939;
+}
+/* Rectangle 171 */
+.rectangle171 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 314px;
+    top: 1095px;
+
+    background: #45D2F2;
+    border-radius: 10px;
+}
+/* Vector */
+.vector4 {
+    position: absolute;
+    width: 158px;
+    height: 40px;
+    left: 324px;
+    top: 1002px;
+}
+/* Ethereum */
+.text10 {
+    position: absolute;
+    width: 56px;
+    height: 15px;
+    left: 354px;
+    top: 992px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    color: #393939;
+}
+/* $ 35,631 */
+.text11 {
+    position: absolute;
+    width: 67px;
+    height: 19px;
+    left: 453px;
+    top: 985px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #393939;
+}
+/* 3.20% */
+.text12 {
+    position: absolute;
+    width: 48px;
+    height: 19px;
+    left: 621px;
+    top: 985px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #FF0220;
+}
+/* $ 222,533,126,422 */
+.text13 {
+    position: absolute;
+    width: 144px;
+    height: 19px;
+    left: 806px;
+    top: 985px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #393939;
+}
+/* Vector 5 */
+.graph2 {
+    position: absolute;
+    width: 138px;
+    height: 40px;
+    left: 1014px;
+    top: 985px;
+
+    border-radius: 8px;
+}
+/* Vector */
+.vector5 {
+    position: absolute;
+    width: 158px;
+    height: 40px;
+    left: 1212px;
+    top: 1000px;
+}
+/* Line 4 */
+.line4 {
+    position: absolute;
+    width: 1110px;
+    height: 0px;
+    left: 166px;
+    top: 1160px;
+
+    border: 1px solid rgba(196, 196, 196, 0.5);
+}
+/* Rectangle 167 */
+.rectangle167 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 182px;
+    top: 1095px;
+
+    background: #F3F4F9;
+    border-radius: 10px;
+}
+/* 3 */
+.text14 {
+    position: absolute;
+    width: 10px;
+    height: 22px;
+    left: 197px;
+    top: 1085px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #393939;
+}
+/* Rectangle 171 */
+.rectangle171 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 314px;
+    top: 1095px;
+
+    background: #45D2F2;
+    border-radius: 10px;
+}
+/* Vector */
+.vector6 {
+    position: absolute;
+    width: 158px;
+    height: 40px;
+    left: 322px;
+    top: 1103px;
+}
+/* Litecoin */
+.text15 {
+    position: absolute;
+    width: 46px;
+    height: 15px;
+    left: 354px;
+    top: 1092px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    color: #393939;
+}
+/* $ 14,789 */
+.text16 {
+    position: absolute;
+    width: 66px;
+    height: 19px;
+    left: 451px;
+    top: 1085px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #393939;
+}
+/* 4.78% */
+.text17 {
+    position: absolute;
+    width: 47px;
+    height: 19px;
+    left: 621px;
+    top: 1085px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #23D007;
+}
+/* $ 232,876,967,555 */
+.text18 {
+    position: absolute;
+    width: 144px;
+    height: 19px;
+    left: 806px;
+    top: 1085px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #393939;
+}
+/* Vector 6 */
+.graph3 {
+    position: absolute;
+    width: 138px;
+    height: 40px;
+    left: 1014px;
+    top: 1085px;
+
+    border-radius: 8px;
+}
+/* Vector */
+.vector7 {
+    position: absolute;
+    width: 158px;
+    height: 40px;
+    left: 1212px;
+    top: 1100px;
+}
+/* Line 5 */
+.line5 {
+    position: absolute;
+    width: 1110px;
+    height: 0px;
+    left: 166px;
+    top: 1260px;
+
+    border: 1px solid rgba(196, 196, 196, 0.5);
+}
+/* Rectangle 168 */
+.rectangle168 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 182px;
+    top: 1195px;
+
+    background: #F3F4F9;
+    border-radius: 10px;
+}
+/* 4 */
+.text19 {
+    position: absolute;
+    width: 10px;
+    height: 22px;
+    left: 197px;
+    top: 1185px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #393939;
+}
+/* Rectangle 172 */
+.rectangle172 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 314px;
+    top: 1195px;
+
+    background: #4BD884;
+    border-radius: 10px;
+}
+/* Vector */
+.vector8 {
+    position: absolute;
+    width: 158px;
+    height: 40px;
+    left: 320px;
+    top: 1203px;
+}
+/* Ripplecoin */
+.text20 {
+    position: absolute;
+    width: 60px;
+    height: 15px;
+    left: 354px;
+    top: 1192px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    color: #393939;
+}
+/* $ 10,324 */
+.text21 {
+    position: absolute;
+    width: 67px;
+    height: 19px;
+    left: 451px;
+    top: 1185px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #393939;
+}
+/* 2.33% */
+.text22 {
+    position: absolute;
+    width: 48px;
+    height: 19px;
+    left: 621px;
+    top: 1185px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #23D007;
+}
+/* $ 225,678,643,907 */
+.text23 {
+    position: absolute;
+    width: 146px;
+    height: 19px;
+    left: 806px;
+    top: 1185px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #393939;
+}
+/* Vector 7 */
+.graph4 {
+    position: absolute;
+    width: 144px;
+    height: 40px;
+    left: 1014px;
+    top: 1185px;
+
+    border-radius: 8px;
+}
+/* Vector */
+.vector9 {
+    position: absolute;
+    width: 158px;
+    height: 40px;
+    left: 1212px;
+    top: 1200px;
+}
+/* Rectangle 169 */
+.rectangle169 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 182px;
+    top: 1295px;
+
+    background: #F3F4F9;
+    border-radius: 10px;
+}
+/* 5 */
+.text24 {
+    position: absolute;
+    width: 10px;
+    height: 22px;
+    left: 197px;
+    top: 1285px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #393939;
+}
+/* Rectangle 173 */
+.rectangle173 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 314px;
+    top: 1295px;
+
+    background: #7879F1;
+    border-radius: 10px;
+}
+/* Vector */
+.vector10 {
+    position: absolute;
+    width: 158px;
+    height: 40px;
+    left: 324px;
+    top: 1303px;
+}
+/* Bitcoin */
+.text25 {
+    position: absolute;
+    width: 40px;
+    height: 15px;
+    left: 354px;
+    top: 1292px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    color: #393939;
+}
+/* $ 66,543 */
+.text26 {
+    position: absolute;
+    width: 70px;
+    height: 19px;
+    left: 451px;
+    top: 1285px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #393939;
+}
+/* 1.45% */
+.text27 {
+    position: absolute;
+    width: 46px;
+    height: 19px;
+    left: 621px;
+    top: 1285px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #FF0220;
+}
+/* $ 222,513,126,410 */
+.text28 {
+    position: absolute;
+    width: 139px;
+    height: 19px;
+    left: 806px;
+    top: 1285px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #393939;
+}
+/* Vector 8 */
+.graph5 {
+    position: absolute;
+    width: 144px;
+    height: 40px;
+    left: 1014px;
+    top: 1285px;
+
+    border-radius: 8px;
+}
+/* Vector */
+.vector11 {
+    position: absolute;
+    width: 158px;
+    height: 40px;
+    left: 1212px;
+    top: 1300px;
+}
+/* Line 6 */
+.line6 {
+    position: absolute;
+    width: 1110px;
+    height: 0px;
+    left: 166px;
+    top: 1360px;
+
+    border: 1px solid rgba(196, 196, 196, 0.5);
+}
+/* Showing 1-5 from 100 data */
+.text29 {
+    position: absolute;
+    width: 211px;
+    height: 20px;
+    left: 182px;
+    top: 1385px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    color: #393939;
+}
+/* Vector */
+.leftarrow {
+    position: absolute;
+    width: 158px;
+    height: 40px;
+    left: 1072px;
+    top: 1407px;
+}
+/* Rectangle 174 */
+.rectangle174 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 1093px;
+    top: 1395px;
+
+    background: #0075FF;
+    border-radius: 10px;
+}
+/* 1 */
+.text30 {
+    position: absolute;
+    width: 10px;
+    height: 22px;
+    left: 1108px;
+    top: 1385px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+/* Rectangle 175 */
+.rectangle175 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 1147px;
+    top: 1395px;
+
+    border: 1px solid rgba(196, 196, 196, 0.5);
+    border-radius: 10px;
+}
+/* 2 */
+.text31 {
+    position: absolute;
+    width: 10px;
+    height: 22px;
+    left: 1162px;
+    top: 1385px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    color: #393939;
+}
+/* Rectangle 176 */
+.rectangle176 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 1200px;
+    top: 1395px;
+
+    border: 1px solid rgba(196, 196, 196, 0.5);
+    border-radius: 10px;
+}
+/* 3 */
+.text32 {
+    position: absolute;
+    width: 10px;
+    height: 22px;
+    left: 1215px;
+    top: 1385px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    color: #393939;
+}
+/* Vector */
+.rightarrow {
+    position: absolute;
+    width: 158px;
+    height: 40px;
+    left: 1252px;
+    top: 1407px;
+}
